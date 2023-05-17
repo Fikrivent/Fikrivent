@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fikrivent
-- 👀 I’m interested in Machine Learning, Web Development, and Data Analitics.
+- 👀 I’m interested in Machine Learning, Web Development, and Data Analytics.
 - 🌱 I’m currently learning about Machine Learning Classification.
 - 💞️ I’m looking to collaborate on 
 - 📫 Email me at fikribaharuddin@gmail.com for more discussion.
